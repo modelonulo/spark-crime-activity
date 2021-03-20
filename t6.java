@@ -8,7 +8,7 @@ import org.apache.spark.api.java.JavaSparkContext;
 /**
  * @author camila.silveira
  */
-public class NossoMain {
+public class Crime {
 
     public static void main(String[] args) {
         
